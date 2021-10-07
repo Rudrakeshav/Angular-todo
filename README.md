@@ -4,7 +4,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Delete Operation
 
-<!-- ![Alt Text](https://github.com/rishavraj221/task-tracker-angular/blob/main/) -->
+![Delete](https://github.com/rishavraj221/task-tracker-angular/blob/main/readmeAssets/delete.gif)
+
+## Edit / Put Operation to set / unset remainder
+
+![Edit](https://github.com/rishavraj221/task-tracker-angular/blob/main/readmeAssets/edit.gif)
+
+## Create Task / Post Operation
+
+![Create](https://github.com/rishavraj221/task-tracker-angular/blob/main/readmeAssets/create.gif)
 
 ## Development server
 
