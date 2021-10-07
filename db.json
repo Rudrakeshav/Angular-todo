@@ -23,12 +23,6 @@
       "text": "Dance Class",
       "day": "May 8th at 6:00pm",
       "remainder": false
-    },
-    {
-      "id": 1633592672918,
-      "text": "Something",
-      "day": "Today 5pm",
-      "remainder": false
     }
   ]
 }
