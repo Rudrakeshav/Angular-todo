@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Doctor's Appointment",
-      "day": "May 5th at 2:30pm",
-      "remainder": false
-    },
-    {
       "id": 2,
       "text": "Meeting at School",
       "day": "May 6th at 9:30am",
@@ -16,7 +10,7 @@
       "id": 3,
       "text": "Food Shopping",
       "day": "May 7th at 12noon",
-      "remainder": true
+      "remainder": false
     },
     {
       "id": 4,
@@ -25,10 +19,10 @@
       "remainder": true
     },
     {
-      "id": 1633594298106,
-      "text": "New Task",
-      "day": "Tomorrow 6PM",
-      "remainder": true
+      "id": 1633795469527,
+      "text": "Doctor's Appointment",
+      "day": "Moday 5:00 PM",
+      "remainder": false
     }
   ]
 }
